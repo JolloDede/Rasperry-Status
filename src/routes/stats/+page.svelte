@@ -17,7 +17,7 @@
 
 <div class="flex flex-col items-center justify-center">
 	<h1 class="mb-6 text-3xl font-bold">Raspberry Pi</h1>
-	<p>{data.time.toLocaleTimeString()}</p>  <!-- Testing purposes (Time validation)-->
+	<!-- <p>{data.time.toLocaleTimeString()}</p> -->  <!-- Testing purposes (Time validation)-->
 
 	<div class="space-y-4 rounded-lg border p-6">
 		<div>
